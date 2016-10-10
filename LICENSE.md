@@ -1,6 +1,6 @@
-MIT License
+#MIT License
 
-Copyright (c) {{ 'now' | date: "%Y" }} Travis Rasor
+Copyright (c) 2016 Travis Rasor
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
